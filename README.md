@@ -2,20 +2,21 @@
 
 langkah - langkah membuat program ini sebagai berikut
 
-Memulai Text Editor
+1.Memulai Text Editor
 
-Membuka Terminal
+2.Membuka Terminal
 
 Tulis listing Program java kita pada text editor contoh nya pada latihan 1 modul 3 PBO program MiaAprilia.java
 
      System.out.println("Welcome to Java Programming Mia Aprilia !!!");   
-Simpan program java yang telah dibuat
+     
+4.Simpan program java yang telah dibuat
 
-Jalankan Program dan jika ada error seperti ada lampu merah maka kenali error tersebut dan perhatikan kembali kodingan yang telah kita buat
+5.Jalankan Program dan jika ada error seperti ada lampu merah maka kenali error tersebut dan perhatikan kembali kodingan yang telah kita buat
 
 # TheTree
 
-langkah - langkah untuk membuatprogram ini hampir sama dengan program yang pertama .
+langkah - langkah untuk membuat program TheTree sama dengan program yang pertama .
 
 1.Memulai Text Editor
 
@@ -33,6 +34,6 @@ Tulis listing Program java kita pada text editor sesuai instruksi soal latihan 2
   
 3.Simpan program java yang telah dibuat
 
-4.Jalankan Program dan jika ada error kenali error tersebut dan perhatikan kembali kodingan yang telah kita buat
+4.Jalankan Program dan jika ada error maka lihat dima ada tanda lampu merah kenali error tersebut dan perhatikan kembali kodingan yang telah kita buat
 
  
