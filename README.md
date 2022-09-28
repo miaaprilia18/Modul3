@@ -28,13 +28,13 @@ langkah - langkah untuk membuat program TheTree sama dengan program yang pertama
 
 Tulis listing Program java kita pada text editor sesuai instruksi soal latihan 2 modul 3 PBO
 
-  System.out.println("I think I shall never see,");
- 
-  System.out.println("a poem lovely as a tree.");
- 
-  System.out.println("A tree whose hungry mouth is pressed");
- 
-  System.out.println("Against the Earth's sweet flowing breast.");
+            System.out.println("I think I shall never see,");
+
+            System.out.println("a poem lovely as a tree.");
+
+            System.out.println("A tree whose hungry mouth is pressed");
+
+            System.out.println("Against the Earth's sweet flowing breast.");
   
 3.Simpan program java yang telah dibuat
 
