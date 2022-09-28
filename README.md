@@ -1,5 +1,7 @@
 # MiaAprilia
 
+https://github.com/miaaprilia18/PBO-Teori-Modul3/blob/main/MiaAprilia.java
+
 langkah - langkah membuat program ini sebagai berikut
 
 1.Memulai Text Editor
@@ -15,6 +17,8 @@ Tulis listing Program java kita pada text editor contoh nya pada latihan 1 modul
 5.Jalankan Program dan jika ada error seperti ada lampu merah maka kenali error tersebut dan perhatikan kembali kodingan yang telah kita buat
 
 # TheTree
+
+https://github.com/miaaprilia18/PBO-Teori-Modul3/blob/main/TheTree.java
 
 langkah - langkah untuk membuat program TheTree sama dengan program yang pertama .
 
